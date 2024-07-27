@@ -1,0 +1,7 @@
+/* Example Code */
+
+int main(){
+    int flag = 1;
+    printf("Hello, World!"); 
+    return 0; 
+}
